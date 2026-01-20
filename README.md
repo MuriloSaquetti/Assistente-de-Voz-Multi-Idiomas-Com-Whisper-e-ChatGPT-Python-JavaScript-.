@@ -140,7 +140,7 @@ Sinta‑se livre para usar, modificar e melhorar!
 
 ---
 
-## 🙋‍♀️ Autor
+## 🙋🏻 Autor
 
 **Murilo Gonçalves Saquetti dos Santos**  
 Assistente de Voz com Inteligência Artificial  
