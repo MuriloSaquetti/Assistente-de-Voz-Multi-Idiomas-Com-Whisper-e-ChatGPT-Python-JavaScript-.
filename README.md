@@ -18,9 +18,9 @@ Este projeto implementa um **assistente de voz inteligente multilíngue**, capaz
 | **Python 3** | Lógica principal do assistente |
 | **JavaScript (MediaRecorder API)** | Captura de áudio via navegador |
 | **Whisper (OpenAI)** | Speech-to-Text |
-| **OpenAI GPT‑4 / GPT‑3.5** | Geração de respostas |
+| **OpenAI GPT‑4 / GPT‑3.5 turbo** | Geração de respostas |
 | **gTTS** | Text‑to‑Speech |
-| **Jupyter Notebook / Google Colab** | Ambiente de execução |
+| **Jupyter Notebook** | Ambiente de execução |
 
 ---
 
@@ -142,6 +142,6 @@ Sinta‑se livre para usar, modificar e melhorar!
 
 ## 🙋‍♀️ Autor
 
-**Anna Clara Peres Porto Mendes**  
+**Murilo Gonçalves Saquetti dos Santos**  
 Assistente de Voz com Inteligência Artificial  
 Jacareí – São Paulo, Brasil
